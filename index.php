@@ -14,6 +14,7 @@
         echo '<h2>' . $date . '</h2>';
     ?>
     </div>
+    <h1>Задание 2</h1>
     <input type="text">
     <h5></h5>
     <script>{
