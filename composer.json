@@ -1,0 +1,12 @@
+{
+    "name": "denisnyux/piha",
+    "authors": [
+        {
+            "name": "Denis Nyukhalov",
+            "email": "denisn2000@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.34"
+    }
+}
